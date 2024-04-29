@@ -7,7 +7,7 @@ Identifying accurate cancer subtypes is crucial for personalized cancer treatmen
 
 ## Dataset
 dataset download link:
-'''bash
+'''
 https://archive.ics.uci.edu/dataset/401/gene+expression+cancer+rna+seq
 The dataset consists of gene expression data for 800 patients across five cancer types: breast, lung, kidney, colon, and prostate. This data is sourced from the TCGA PAN cancer project.
 
