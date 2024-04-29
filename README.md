@@ -6,6 +6,9 @@ This project aims to improve the classification accuracy of cancer subtypes thro
 Identifying accurate cancer subtypes is crucial for personalized cancer treatment. Our project leverages machine learning to overcome the challenges of overlapping clusters in subtype classification, thus improving treatment strategies and outcomes.
 
 ## Dataset
+dataset download link:
+'''bash
+https://archive.ics.uci.edu/dataset/401/gene+expression+cancer+rna+seq
 The dataset consists of gene expression data for 800 patients across five cancer types: breast, lung, kidney, colon, and prostate. This data is sourced from the TCGA PAN cancer project.
 
 - **data.csv**: Gene expression data with 20532 columns.
